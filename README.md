@@ -1,7 +1,7 @@
 # Four-Fun
 ## Disk Collection of Four Player games for the MEGA65
 
-![Four Fun Disk for the MEGA65](https://github.com/jim-64/Four-Fun/blob/main/image1disk.jpeg)
+![Four Fun Disk for the MEGA65](https://github.com/jim-64/Four-Fun/blob/main/disk_resized.png)
 
 ### This disk collection was put together for use with the MEGA65 four player joystick interface.
 
