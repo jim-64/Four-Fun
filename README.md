@@ -1,6 +1,8 @@
 # Four-Fun
 ## Disk Collection of Four Player games for the MEGA65
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ### This disk collection was put together for use with the MEGA65 four player joystick interface.
 
 If there are other games that you think should be added, please contact me.
